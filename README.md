@@ -1,4 +1,4 @@
-# PrivacyPolicy
+# Privacy Policy
 
 This privacy Policy describes how your personal information is handled in my ios apps ("the application") .
 
