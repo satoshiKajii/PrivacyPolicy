@@ -1,6 +1,6 @@
 # PrivacyPolicy
 
-This privacy Policy describes how your personal information is handled in my ios apps (the application) .
+This privacy Policy describes how your personal information is handled in my ios apps ("the application") .
 
 I collect no personal information using the apllication.
 
